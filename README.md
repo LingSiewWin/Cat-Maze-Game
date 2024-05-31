@@ -1,4 +1,4 @@
-# Cat-Maze-
+# Cat-Maze-Game
 
 I have develop a maze game as my project. This maze game will have several rules and limitation to ensure the difficulty level of the game and to guarantee the progress of maze. 
 
